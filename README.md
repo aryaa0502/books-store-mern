@@ -1,1 +1,1 @@
-scsc
+This Books Store web application was deployed on render (live link : https://books-store-frontend-k1dz.onrender.com ) using separate repositories for frontend : ( https://github.com/aryaa0502/books-store-frontend ) and backend: ( https://github.com/aryaa0502/books-store-backend )
